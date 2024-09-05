@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(251, 255, 0);
+    padding: 30px;
+    border: 15px solid blueviolet;
+    margin:left;
+    margin-top: 15px;
+    border-radius: 30px;
+
+}
+.box2{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 210, 127);
+    padding: 30px;
+    border: 15px solid rgb(61, 43, 226);
+    margin:left;
+    margin-top: 15px;
+    border-style:dashed;
+    border-radius:47% 53% 48% 52% / 86% 80% 20% 14% ;
+}
+.box3{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(240, 167, 167);
+    padding: 30px;
+    border: 15px solid rgb(156, 226, 43);
+    margin:left;
+    margin-top: 15px;
+   border-radius: 58% 42% 48% 52% / 30% 56% 44% 70% ;
+}
+.box4{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(179, 255, 0);
+    padding: 30px;
+    border: 15px solid rgb(14, 84, 102);
+    margin:left;
+    margin-top: 15px;
+    border-style: double;
+}
+.box5{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(144, 146, 255);
+    padding: 30px;
+    border: 15px solid rgb(78, 3, 3);
+    margin:left;
+    margin-top: 15px;
+    border-style: groove;
+}
+.box6{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(0, 255, 213);
+    padding: 30px;
+    border: 15px solid rgb(0, 0, 0);
+    margin:left;
+    margin-top: 15px;
+    border-style: hidden;
+    border-radius: 47% 53% 48% 52% / 44% 80% 20% 56% ;
+}
+.box7{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(6, 180, 99);
+    padding: 30px;
+    border: 15px solid rgb(208, 226, 43);
+    margin:left;
+    margin-top: 15px;
+    border-style: inherit;
+}
+.box8{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 8, 0);
+    padding: 30px;
+    border: 15px solid rgb(43, 159, 226);
+    margin:left;
+    margin-top: 15px;
+    border-style:initial;
+}
+.box9{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(126, 127, 224);
+    padding: 30px;
+    border: 15px solid rgb(208, 226, 43);
+    margin:left;
+    margin-top: 15px;
+    border-style: inset;
+}
+.box10{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(134, 120, 153);
+    padding: 30px;
+    border: 15px solid rgb(0, 0, 0);
+    margin:left;
+    margin-top: 15px;
+    border-style: none;
+}
+.box11{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(27, 145, 192);
+    padding: 30px;
+    border: 15px solid rgb(38, 43, 0);
+    margin:left;
+    margin-top: 15px;
+    border-style: outset;
+}
+.box12{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 0, 0);
+    padding: 30px;
+    border: 15px solid rgb(43, 226, 217);
+    margin:left;
+    margin-top: 15px;
+    border-style: ridge;
+}
+.box13{
+    height: 250px;
+    width: 250px;
+    background-image: url(./images/desktop-wallpapers-landscape-background-wallpaper_9578952.jpg!bw700);
+    padding: 30px;
+    border: 15px solid rgb(208, 226, 43);
+    margin:left;
+    margin-top: 15px;
+    border-style: unset;
+}
+
